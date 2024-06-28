@@ -13,4 +13,4 @@ st.markdown("""
 
 Welcome to DiffSynth Studio.
 """)
-8
+
