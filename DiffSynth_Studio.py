@@ -2,7 +2,7 @@
 import streamlit as st
 st.set_page_config(layout="wide")
 # Diasble virtual VRAM on windows system
-import torchl
+import torch
 torch.cuda.set_per_process_memory_fraction(0.999, 0)
 
 
