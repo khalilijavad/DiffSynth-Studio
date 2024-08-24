@@ -13,5 +13,5 @@ st.markdown("""
 
 Welcome to DiffSynth Studio.
 """)
-9
+7
 
