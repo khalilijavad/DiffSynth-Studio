@@ -11,7 +11,7 @@ st.markdown("""
 
 [Source Code](https://github.com/Artiprocher/DiffSynth-Studio)
 
-Welcome to DiffSynth Studio.
+Welcome to DiffSynth Studio
 """)
 9
 
