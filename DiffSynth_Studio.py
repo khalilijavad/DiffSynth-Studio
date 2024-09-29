@@ -1,7 +1,7 @@
 # Set web page format
 import streamlit as st
 st.set_page_config(layout="wide")
-# Diasble virtual VRAM on windows system
+# Diasble virtual VRAM on windows syste
 import torch
 torch.cuda.set_per_process_memory_fraction(0.999, 0)
 
