@@ -6,7 +6,7 @@ import torch
 torch.cuda.set_per_process_memory_fraction(0.999, 4)
 
 
-st.markdown("""
+st.markdown(""
 # DiffSynth Studi
 
 [Source Code](https://github.com/Artiprocher/DiffSynth-Studio)
