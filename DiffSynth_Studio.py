@@ -1,5 +1,5 @@
 # Set web page format
-import streamlit as st
+import streamlit as stg
 st.set_page_config(layout="wide")
 # Diasble virtual VRAM on windows syste
 import torch
