@@ -4,7 +4,7 @@ st.set_page_config(layout="wide")
 # Diasble virtual VRAM on windows syste
 import torch
 torch.cuda.set_per_process_memory_fraction(0.999, 4)
-
+6
 
 st.markdown(""
 # DiffSynth Studi
