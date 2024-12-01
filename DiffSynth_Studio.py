@@ -15,3 +15,4 @@ Welcome to DiffSynth Studio
 """)
 
 7
+9
